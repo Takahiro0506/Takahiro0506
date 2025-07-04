@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I’m Takahiro “Taka” Kasuya
 
-<!--
-**Takahiro0506/Takahiro0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Japanese web development diploma student at TAFE WA and run the Perth branch of a study-abroad agency.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Front-end projects (HTML/CSS/JavaScript)  
+- Growing our Perth student network and partnerships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- JavaScript frameworks (React, Vue)  
+- WordPress theme development
+
+### 💬 Ask me about
+- Web development and responsive design  
+- Study-abroad in Australia and life in Perth
+
+### ⚡ Fun fact
+- I love snorkeling off Rottnest Island 🐠  
